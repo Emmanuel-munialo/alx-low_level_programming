@@ -1,14 +1,10 @@
 #include <stdio.h>
 /**
- * main - Entry point
- *
- * Description: using sizeof to print the size of various types.
- *
+ * main - Program that prints the size of various
  * Return: 0
  */
 int main(void)
 {
-/* sizeof evaluates the size of a variable */
 printf("Size of a char: %zu byte(s)\n", sizeof(char));
 printf("Size of an int: %zu byte(s)\n", sizeof(int));
 printf("Size of a long int: %zu byte(s)\n", sizeof(long int));
