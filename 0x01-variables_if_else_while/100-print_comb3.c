@@ -17,7 +17,7 @@ if (j != i)
 putchar(i);
 putchar(j);
 if (i == '8' && j == '9')
-contine:
+continue;
 putchar(',');
 putchar(' ');
 }
