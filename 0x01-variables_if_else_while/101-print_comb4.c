@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
-* main - The success combination in business
+* main - The success combination
 * Return: 0
 */
 int main(void)
