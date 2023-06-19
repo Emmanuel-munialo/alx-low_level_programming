@@ -2,9 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - The success combination in business
- * Return: 0
- */
+* main - The success combination in business
+* Return: 0
+*/
 int main(void)
 {
 int i, j, m;
@@ -19,7 +19,7 @@ if ((j != i) != m)
 putchar(i);
 putchar(j);
 putchar(m);
-if (i == '7' && j == 9)
+if (i == '7' && j == 8)
 continue;
 putchar(',');
 putchar(' ');
