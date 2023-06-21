@@ -4,7 +4,7 @@
 */
 void print_alphabet_x10(void)
 {
-int line = l, char = ch;
+int (line = l, (char = ch));
 for (l = 0; l <= 9; ++l)
 {
 for (ch = 'a'; ch <= 'z'; ++ch)
