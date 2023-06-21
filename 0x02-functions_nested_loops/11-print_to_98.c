@@ -1,6 +1,6 @@
 #include"main.h"
 /**
-* print_to_98 - print n to 98 counts separated byn comma
+* print_to_98 - print n to 98 counts
 * @n: input
 */
 void print_to_98(int n)
