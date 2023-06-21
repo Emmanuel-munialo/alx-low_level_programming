@@ -1,4 +1,5 @@
 #include"main.h"
+#include <stdio.h>
 /**
 * main - The numbers must be separated by comma
 *
