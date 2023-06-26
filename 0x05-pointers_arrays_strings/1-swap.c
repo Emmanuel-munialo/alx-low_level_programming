@@ -5,7 +5,7 @@
  * @b: integer to swap
  * Return: *a = *b
  */
-int swap_int(int *a, int *b)
+void swap_int(int *a, int *b)
 {
 int v;
 v = *a;
