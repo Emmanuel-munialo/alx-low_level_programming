@@ -21,9 +21,10 @@ if ((2772 - sum) - '0' < 78)
 {
 n = 2772 - sum - '0';
 sum += n;
-piutchar(n + '0');
+putchar(n + '0');
 break;
 }
 }
-return (0)QTW
+return (0);
+QTW
 }
