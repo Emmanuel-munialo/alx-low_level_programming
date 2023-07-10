@@ -32,4 +32,3 @@ return (w);
  * or NULL (Error)
  */
 char **strtow(char *str)
-{
